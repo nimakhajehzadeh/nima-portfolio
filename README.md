@@ -24,8 +24,8 @@
 #### A code Challenge
 
 Designing and implementing a deep learning model to predict the next 24 hours of Ontario's electricity demand with remarkable accuracy! 📈⚡
-Training R-squared (R2) Score: 0.9906444163079234<br>
-Test R-squared (R2) Score: 0.9886932654978242
+**Training R-squared (R2) Score: 0.9906444163079234<br>**
+**Test R-squared (R2) Score: 0.9886932654978242**
 
 <p style='text-align: justify;'> Image 1 :
 The first image illustrates the fascinating interplay between various features and their impact on Ontario's electricity demand. These visualizations provide key insights into the dynamics that influence our power needs. Knowledge is power, and in this case, it's electrifying!
