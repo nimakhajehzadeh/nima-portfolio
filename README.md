@@ -24,17 +24,17 @@
 #### A code Challenge
 
 Designing and implementing a deep learning model to predict the next 24 hours of Ontario's electricity demand with remarkable accuracy! 📈⚡
-Training R-squared (R2) Score: 0.9906444163079234
+Training R-squared (R2) Score: 0.9906444163079234<br>
 Test R-squared (R2) Score: 0.9886932654978242
 
-Image 1 :
+<p style='text-align: justify;'> Image 1 :
 The first image illustrates the fascinating interplay between various features and their impact on Ontario's electricity demand. These visualizations provide key insights into the dynamics that influence our power needs. Knowledge is power, and in this case, it's electrifying!
 Image 2 ,3 :
-The second image showcases the accuracy of my predictive model. With a razor-sharp focus on precision, the model is set to revolutionize our approach to electricity demand forecasting. It's not just about numbers; it's about ensuring a sustainable and efficient future for Ontario's energy landscape.
+The second image showcases the accuracy of my predictive model. With a razor-sharp focus on precision, the model is set to revolutionize our approach to electricity demand forecasting. It's not just about numbers; it's about ensuring a sustainable and efficient future for Ontario's energy landscape.</p>
 
-🤓🔍 Data Science at Its Finest
+<p style='text-align: justify;'>🤓🔍 Data Science at Its Finest
 This journey has reaffirmed my belief in the incredible potential of data science to shape the future. It's not just code; it's a way to bring about positive change and enhance our understanding of complex systems. 🌐🔍
-A massive shoutout to the incredible data science community for the inspiration and insights that guided me on this quest. Together, we're illuminating a brighter future! 💪🌟
+A massive shoutout to the incredible data science community for the inspiration and insights that guided me on this quest. Together, we're illuminating a brighter future! 💪🌟</p>
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
