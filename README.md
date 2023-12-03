@@ -32,8 +32,8 @@ Designing and implementing a deep learning model to predict the next 24 hours of
 **Training R-squared (R2) Score: 0.9906444163079234<br>**
 **Test R-squared (R2) Score: 0.9886932654978242**
 
-![Accuracy](/assets/image/accuracy1.jpeg)
-![Accuracy2](/assets/image/accuracy2.jpeg)
+![Accuracy](/assets/image/accuracy1.jpg)
+![Accuracy2](/assets/image/accuracy2.jpg)
 ![Accuracy2](/assets/image/box_plot.png)
 ![Accuracy2](/assets/image/scatter_plot.png)
 
