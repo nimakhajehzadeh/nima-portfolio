@@ -5,7 +5,7 @@
 ## Education	        		
 - B.S., Computer Engineering | Shahid Bahonar University of Kerman, Iran (_August 2023_)
 
-## Projects
+## Researchs & Projects
 ### Hip(Diagnosis of pelvic bone damage)
 #### [Working with professor Alimorad Khajehzadeh faculty member of Islamic Azad University of Kerman, Iran](https://scholar.google.com/citations?user=dib_lQgAAAAJ&hl=en)
 
