@@ -1,6 +1,9 @@
 # Data Scientist
 
-#### Technical Skills: Python, C#, HTML, CSS, Javascript, SQL
+### Technical Skills
+#### Programming Language & Tools: Python, C#, HTML, CSS, Javascript, SQL
+#### Machine Learning & AI Frameworks: TensorFlow, OpenCV, Keras, Scikit-Learn
+#### Data Analysis & Visualization: Pandas, Numpy, Matplotlib, Seaborn
 
 ## Education	        		
 - B.S., Computer (Eng) | Shahid Bahonar University of Kerman, Iran (_August 2023_)
