@@ -1,16 +1,13 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, C#, HTML, CSS, Javascript, SQL
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education	        		
+- B.S., Computer Engineering | Shahid Bahonar University of Kerman (_August 2023_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Hip(Diagnosis of pelvic bone damage)**
+HIP - Pelvic Bone Damage Diagnosis HIP, short for "Diagnosis of pelvic bone damage by MRI image," stands as a testament to the transformative capabilities of AI in the medical field. This project leverages image processing and deep learning techniques to address a critical need in diagnostic medicine, specifically the accurate assessment of pelvic bone injuries through MRI imaging. The intricacies of this task become apparent when considering the complexity of pelvic bone structures and the nuanced nature of damage patterns. Our AI-driven solution begins with a meticulous preprocessing phase, where advanced image processing algorithms are employed to enhance the quality of MRI scans and isolate the relevant anatomical structures. Deep learning models, tailored to the task at hand, then take center stage. These models are not only adept at identifying normal pelvic bone structures but also excel at recognizing and classifying abnormalities indicative of damage. The extensive training regimen, which involves a diverse corpus of MRI scans, enables our models to achieve levels of diagnostic accuracy previously unattainable. What sets our project apart is its potential to revolutionize the field of radiology and diagnostics. By providing clinicians with a powerful tool capable of swiftly and accurately identifying pelvic bone injuries, we empower medical professionals to make informed decisions rapidly, ultimately enhancing patient care outcomes. In conclusion, HIP represents the synergy of medical expertise and AI innovation, and it is poised to redefine diagnostic processes in a manner that elevates patient care to new heights. This project exemplifies the transformative potential of AI in healthcare and demonstrates our unwavering commitment to pushing the boundaries of technological advancement in service to humanity.
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
