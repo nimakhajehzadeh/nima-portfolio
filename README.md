@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Contents:
-- <a href="#Skills>Skills</a>
+- <a href="#Skills">Skills</a>
 
 
 ## Technical Skills
