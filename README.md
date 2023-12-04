@@ -1,12 +1,22 @@
 # Data Scientist
 
-### Technical Skills
-- #### Programming Language & Tools: Python, C#, HTML, CSS, Javascript, SQL
-- #### Machine Learning & AI Frameworks: TensorFlow, OpenCV, Keras, Scikit-Learn
-- #### Data Analysis & Visualization: Pandas, Numpy, Matplotlib, Seaborn
+### Contents:
+- <a href="#Skills>Skills</a>
+
+
+## Technical Skills
+- ### Programming Language & Tools: Python, C#, HTML, CSS, Javascript, SQL
+- ### Machine Learning & AI Frameworks: TensorFlow, OpenCV, Keras, Scikit-Learn
+- ### Data Analysis & Visualization: Pandas, Numpy, Matplotlib, Seaborn
+- ### Others: Agile & Scrum Methodolgy, Good communication
+- ### Language: Persian, English 
 
 ## Education	        		
 - B.S., Computer (Eng) | Shahid Bahonar University of Kerman, Iran (_August 2023_)
+
+## Standard Test Score
+- Toefl IBT: 106(overal)
+- GRE: Verbal Reasoning: 163, Quantitative Reasoning: 167, Analytical Writing: 5.0
 
 ## Researchs & Projects
 - ### Hip(Diagnosis of pelvic bone damage)
